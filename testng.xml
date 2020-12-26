@@ -1,0 +1,11 @@
+<suite name="...">
+    <test name="...">
+        <classes>
+            <class name="test.AnnotationCall"/>
+                <methods>
+                    <include name = "firstTest"/>
+                    <include name = "secondTest"/>
+                </methods>
+        </classes>
+    </test>
+</suite>
