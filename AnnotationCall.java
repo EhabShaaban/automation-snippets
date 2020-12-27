@@ -14,6 +14,15 @@
  * afterSuite
  * :)
  */
+/**
+ * <suite name="...">
+ *     <test name="...">
+ *         <classes>
+ *             <class name="test.AnnotationCall"/>
+ *         </classes>
+ *     </test>
+ * </suite>
+ */
 package test;
 
 import org.testng.annotations.*;
